@@ -1,0 +1,14 @@
+.Dashboard {
+    margin: 50px;
+}
+
+.mt-dashboard {
+    margin-top: 50px;
+}
+table {
+    font-size: 10px;
+}
+
+.add-button {
+    align-content: flex-start, 
+}
